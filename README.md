@@ -2,7 +2,7 @@
 
 **AI assignment.**
 <br>
-**Summer 2021 - Artificial Intelligence.**
+**Summer 2021 - Artificial Intelligence Course.**
 
 
 Solve special binary puzzles with CSP rules
