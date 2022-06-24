@@ -1,7 +1,13 @@
 # Constraint_Satisfaction_Problem(CSP)
 
+**AI assignment.**
+<br>
+**Summer 2021 - Artificial Intelligence.**
 
-### Heuristic Methods
+
+Solve special binary puzzles with CSP rules
+<br>
+Heuristic Methods:
  - MRV‬‬(‫‪Minimum‬‬ ‫‪Remaining‬‬ ‫‪Values‬‬)
  - LCV‬‬(‫‪Least‬‬ Constraining‬‬ ‫‪Values‬‬)
 
